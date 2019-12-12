@@ -6,7 +6,7 @@
 #include <string>
 #include <Windows.h>
 
-int main(int argc, char * argv[])
+int main(int argc, char* argv[])
 {
     std::cout << "Hello World!\n";
     std::ifstream inFile;
@@ -28,8 +28,9 @@ int main(int argc, char * argv[])
     while (std::getline(inFile, line))
     {
         std::cout << "Line is: " << line << std::endl;
-        
+
     }
+
 
 
 }

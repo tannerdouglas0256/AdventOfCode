@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/Day1/.vs/Day1/v16
+*.vcxproj
+*.filters
+*.user
+*.sln
+/Day1/Day1/Debug/Day1.tlog
+/Day1/Day1/Debug
+/Day1/Debug
